@@ -13,7 +13,7 @@ end
 board = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
 
 
-#the method that converts user input to an interger
+#the method that converts user input to an interger(postion method)
 def input_to_index(number)
   number.to_i - 1
 end
